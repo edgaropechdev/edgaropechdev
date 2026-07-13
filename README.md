@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Edgar Osvaldo Pech García
 
-Software Developer from Mexico 🇲🇽 focused on building scalable web applications with modern technologies.
+Software Engineer from Mexico 🇲🇽 focused on building scalable web applications with modern technologies.
 
 I'm passionate about creating clean user experiences, designing robust backend architectures, and continuously improving my software engineering skills.
 
@@ -10,13 +10,11 @@ Currently preparing for an international software engineering career while expan
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering student
+- 🎓 Software Engineering
 - 💻 Full Stack Web Developer
 - 🌐 Interested in enterprise software architecture
 - ☁️ Learning Cloud & DevOps
 - 🤖 Exploring AI integrations for business software
-- 🇯🇵 Studying Japanese for future opportunities in Japan
-- 🇬🇧 Improving my English toward C1 level
 
 ---
 
@@ -108,19 +106,6 @@ Planned features:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
 
 </p>
-
----
-
-## 🎯 Current Goals
-
-- Build production-quality enterprise applications
-- Improve software architecture skills
-- Learn cloud technologies
-- Master DevOps practices
-- Contribute to open-source projects
-- Achieve C1 English proficiency
-- Reach JLPT N4 Japanese
-- Work as a Software Engineer in Japan
 
 ---
 
